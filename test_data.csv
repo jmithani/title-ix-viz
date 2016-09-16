@@ -1,0 +1,4 @@
+UNITID,case_count,cases.0,cases.1,sector,college_name,state_fips,state_abbrev,lat,lon
+100663,1,297,NA,public,University of Alabama at Birmingham,1,AL,33.50223,-86.80917
+101648,1,161,NA,public,Marion Military Institute,1,AL,32.622359,-87.317998
+103529,1,4,NA,public,University of Alaska system,2,AK,64.858626,-147.82863

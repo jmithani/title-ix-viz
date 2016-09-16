@@ -1,0 +1,234 @@
+UNITID,case_count,cases.0,cases.1,sector,college_name,state_fips,state_abbrev,lat,lon
+100663,1,297,NA,public,University of Alabama at Birmingham,1,AL,33.50223,-86.80917
+101648,1,161,NA,public,Marion Military Institute,1,AL,32.622359,-87.317998
+103529,1,4,NA,public,University of Alaska system,2,AK,64.858626,-147.82863
+104151,1,9,NA,public,Arizona State University,4,AZ,33.422247,-111.934629
+106397,2,281,282,public,University of Arkansas at Fayetteville,5,AR,36.06153,-94.178214
+110246,1,17,NA,public,Butte College,6,CA,39.649116,-121.644691
+110422,1,193,NA,public,California Polytechnic State University at San Luis Obispo,6,CA,35.29889,-120.65856
+110635,2,8,225,public,University of California at Berkeley,6,CA,37.871969,-122.260423
+110644,1,22,NA,public,University of California at Davis,6,CA,38.539895,-121.751958
+110662,1,23,NA,public,University of California at Los Angeles,6,CA,34.068892,-118.443901
+110699,2,27,252,public,University of California at San Francisco,6,CA,37.762736,-122.458049
+110714,2,29,315,public,University of California at Santa Cruz,6,CA,36.997258,-122.067993
+111081,1,19,NA,private,California Institute of the Arts,6,CA,34.393337,-118.567303
+111948,1,164,NA,private,Chapman University,6,CA,33.793678,-117.851481
+117627,1,333,NA,private,La Sierra University,6,CA,33.908834,-117.497071
+117946,1,303,NA,private,Loyola Marymount University,6,CA,33.970633,-118.415655
+120254,1,173,NA,private,Occidental College,6,CA,34.126224,-118.210783
+121257,1,121,NA,private,Pitzer College,6,CA,34.103408,-117.705939
+121345,1,166,NA,private,Pomona College,6,CA,34.098298,-117.711944
+122296,1,106,NA,private,Samuel Merritt University,6,CA,37.82029,-122.266331
+122436,2,139,239,private,University of San Diego,6,CA,32.77142,-117.188721
+122597,1,109,NA,public,San Francisco State University,6,CA,37.721345,-122.477905
+122737,1,110,NA,public,San Jose/Evergreen Community College District,6,CA,37.334727,-121.891458
+122931,1,201,NA,private,Santa Clara University,6,CA,37.352706,-121.938189
+123554,1,294,NA,private,Saint Mary's College of California,6,CA,37.83997,-122.106795
+123961,2,37,272,private,University of Southern California,6,CA,34.021058,-118.283858
+126562,1,36,NA,public,University of Colorado at Denver,8,CO,39.74603,-104.999181
+126614,1,34,NA,public,University of Colorado at Boulder,8,CO,40.004415,-105.267061
+126818,2,64,266,public,Colorado State University at Fort Collins,8,CO,40.574759,-105.08083
+127060,2,76,77,private,University of Denver,8,CO,39.695954,-104.964625
+127918,1,102,NA,private,Regis University,8,CO,39.78976,-105.031385
+129020,2,74,136,public,University of Connecticut,9,CT,41.806261,-72.247969
+130794,1,159,NA,private,Yale University,9,CT,41.311158,-72.926688
+130934,1,262,NA,public,Delaware State University,10,DE,39.187173,-75.54053
+130943,1,75,NA,public,University of Delaware,10,DE,39.679574,-75.752917
+131098,1,241,NA,private,Wesley College (Del.),10,DE,39.16325,-75.527377
+131159,2,5,317,private,American University,11,DC,38.937802,-77.090106
+131283,1,28,NA,private,Catholic University of America,11,DC,38.935796,-76.998961
+131469,1,108,NA,private,George Washington University,11,DC,38.89865,-77.047871
+134097,1,72,NA,public,Florida State University,12,FL,30.4421,-84.294801
+134237,1,51,NA,private,Full Sail University,12,FL,28.596546,-81.301286
+135726,2,208,271,private,University of Miami,12,FL,25.720406,-80.27645
+137351,1,35,NA,public,University of South Florida,12,FL,28.056647,-82.415876
+139658,1,71,NA,private,Emory University,13,GA,33.798836,-84.325782
+140553,1,224,NA,private,Morehouse College,13,GA,33.74793,-84.415156
+140696,1,119,NA,private,Oglethorpe University,13,GA,33.875939,-84.334756
+141060,1,223,NA,private,Spelman College,13,GA,33.74519,-84.410118
+141574,1,78,NA,public,University of Hawaii-Manoa,15,HI,21.292648,-157.816607
+142276,1,43,NA,public,Idaho State University,16,ID,42.864108,-112.429084
+142285,2,79,80,public,University of Idaho,16,ID,46.726894,-117.024296
+142294,1,269,NA,private,College of Idaho,16,ID,43.652653,-116.676838
+142328,1,273,NA,public,Lewis-Clark State College,16,ID,46.410034,-117.026371
+144050,3,32,254,private,University of Chicago,17,IL,41.78917,-87.601196
+144281,1,195,NA,private,Columbia College Chicago,17,IL,41.873589,-87.624554
+145600,1,283,NA,public,University of Illinois at Chicago,17,IL,41.872651,-87.651145
+145637,2,137,340,public,University of Illinois at Urbana-Champaign,17,IL,40.108864,-88.230309
+146339,1,248,NA,private,Judson University (Ill.),17,IL,42.05896,-88.289708
+146427,3,58,59,private,Knox College,17,IL,40.941829,-90.370316
+147341,1,210,NA,private,Monmouth College,17,IL,40.91459,-90.637909
+149222,2,203,251,public,Southern Illinois University at Carbondale,17,IL,37.713239,-89.218724
+150677,1,279,NA,private,Grace College and Seminary,18,IN,41.226473,-85.813931
+150756,2,116,331,private,Hanover College,18,IN,38.712488,-85.461086
+151102,1,338,NA,public,Indiana University-Purdue University at Fort Wayne,18,IN,41.115418,-85.111747
+151351,3,54,55,public,Indiana University at Bloomington,18,IN,39.166383,-86.526904
+152080,2,217,259,private,University of Notre Dame,18,IN,41.703058,-86.238959
+152600,1,144,NA,private,Valparaiso University,18,IN,41.463176,-87.045853
+152637,2,93,260,public,Vincennes University,18,IN,38.686861,-87.523106
+153269,1,191,NA,private,Drake University,19,IA,41.60381,-93.654062
+153384,1,198,NA,private,Grinnell College,19,IA,41.747048,-92.721246
+153603,1,52,NA,public,Iowa State University,19,IA,42.026368,-93.648353
+153658,1,81,NA,public,University of Iowa,19,IA,41.660695,-91.535698
+155317,3,82,226,public,University of Kansas,20,KS,38.958551,-95.247618
+155399,4,56,57,public,Kansas State University,20,KS,39.188616,-96.581077
+156082,1,148,NA,public,Washburn University,20,KS,39.034977,-95.702325
+157076,1,117,NA,private,Kentucky Wesleyan College,21,KY,37.744667,-87.121984
+157085,1,83,NA,public,University of Kentucky,21,KY,38.035818,-84.505653
+159638,1,200,NA,public,Louisiana State University system,22,LA,30.414805,-91.169552
+159656,1,256,NA,private,Loyola University New Orleans,22,LA,29.936141,-90.120417
+162584,1,25,NA,public,Frostburg State University,24,MD,39.651509,-78.933871
+162928,1,33,NA,private,Johns Hopkins University,24,MD,39.32838,-76.620799
+163268,1,327,NA,public,University of Maryland-Baltimore County,24,MD,39.256686,-76.711607
+163453,1,14,NA,public,Morgan State University,24,MD,39.344235,-76.584238
+163462,1,293,NA,private,Mount St. Mary's University (Md.),24,MD,39.680632,-77.35222
+163912,5,103,234,public,St. Mary's College of Maryland,24,MD,38.188615,-76.425706
+164465,1,170,NA,private,Amherst College,25,MA,42.372459,-72.518493
+164580,1,285,NA,private,Babson College,25,MA,42.296529,-71.269479
+164748,1,11,NA,private,Berklee College of Music,25,MA,42.346895,-71.08703
+164924,1,192,NA,private,Boston College,25,MA,42.337688,-71.171488
+164988,1,24,NA,private,Boston University,25,MA,42.349581,-71.09984
+165015,3,105,264,private,Brandeis University,25,MA,42.364947,-71.254716
+165334,1,277,NA,private,Clark University,25,MA,42.251064,-71.823537
+165662,1,70,NA,private,Emerson College,25,MA,42.35532,-71.074037
+166018,1,46,NA,private,Hampshire College,25,MA,42.324772,-72.532401
+166027,3,47,165,private,Harvard University,25,MA,42.374429,-71.118177
+166629,2,86,204,public,University of Massachusetts at Amherst,25,MA,42.386162,-72.52617
+166683,1,207,NA,private,Massachusetts Institute of Technology,25,MA,42.360095,-71.092115
+166692,1,209,NA,public,Massachusetts Maritime Academy,25,MA,41.740538,-70.623953
+167358,2,13,320,private,Northeastern University,25,MA,42.339992,-71.088782
+167525,1,101,NA,public,Quincy College,25,MA,42.25194,-71.003091
+167987,1,87,NA,public,University of Massachusetts at Dartmouth,25,MA,41.628861,-71.005528
+167996,1,270,NA,private,Stonehill College,25,MA,42.061448,-71.078123
+168148,3,187,188,private,Tufts University,25,MA,42.406994,-71.121689
+168254,1,242,NA,private,Western New England University,25,MA,42.115837,-72.518789
+168591,1,168,NA,private,Alma College,26,MI,43.379236,-84.670073
+170082,1,53,NA,public,Grand Valley State University,26,MI,42.965208,-85.887519
+170976,1,88,NA,public,University of Michigan at Ann Arbor,26,MI,42.276061,-83.743121
+171100,2,60,61,public,Michigan State University,26,MI,42.73212,-84.476111
+174783,1,215,NA,public,St. Cloud State University,27,MN,45.552418,-94.153
+174844,1,292,NA,private,St. Olaf College,27,MN,44.462884,-93.183633
+174899,1,341,NA,private,College of Saint Scholastica,27,MN,46.81544,-92.105738
+176017,1,238,NA,public,University of Mississippi,28,MS,34.362144,-89.539377
+176372,1,322,NA,public,University of Southern Mississippi,28,MS,31.327499,-89.33791
+178411,1,42,NA,public,Missouri University of Science and Technology,29,MO,37.955853,-91.7759
+179955,1,240,NA,private,William Jewell College,29,MO,39.247848,-94.41207
+180151,1,296,NA,public,Dawson Community College,30,MT,47.085225,-104.725241
+180489,1,138,NA,public,University of Montana at Missoula,30,MT,46.861074,-113.98294
+180902,1,194,NA,public,Central Community College,31,NE,40.889582,-98.372549
+180948,1,300,NA,public,Chadron State College,31,NE,42.820672,-103.002793
+181215,1,211,NA,public,University of Nebraska at Kearney,31,NE,40.700787,-99.098237
+181464,1,89,NA,public,University of Nebraska at Lincoln,31,NE,40.822272,-96.702177
+182670,2,184,185,private,Dartmouth College,33,NH,43.70408,-72.289951
+185572,1,280,NA,private,Monmouth University,34,NJ,40.280066,-74.006447
+186131,5,125,231,private,Princeton University,34,NJ,40.34853,-74.663603
+186283,1,275,NA,private,Rider University,34,NJ,40.283122,-74.742822
+186584,1,202,NA,private,Seton Hall University,34,NJ,40.742859,-74.248753
+187985,1,278,NA,public,University of New Mexico,35,NM,35.083868,-106.620155
+188058,1,124,NA,public,Northern New Mexico College,35,NM,36.004073,-106.084395
+189088,1,249,NA,private,Bard College,36,NY,42.021803,-73.906243
+189097,1,10,NA,private,Barnard College,36,NY,40.809137,-73.964027
+189705,1,21,NA,private,Canisius College,36,NY,42.925319,-78.851794
+190150,3,65,182,private,Columbia University,36,NY,40.808286,-73.961885
+190415,4,66,196,private,Cornell University,36,NY,42.447199,-76.483489
+190442,1,183,NA,public,Corning Community College,36,NY,42.11724,-77.073708
+190594,1,48,NA,public,City University of New York Hunter College,36,NY,40.768669,-73.964795
+190983,1,197,NA,private,Elmira College,36,NY,42.092724,-76.811333
+191515,1,45,NA,private,Hamilton College (N.Y.),36,NY,43.047809,-75.408853
+191630,2,41,160,private,Hobart and William Smith Colleges,36,NY,42.857725,-76.984533
+193326,1,284,NA,public,Monroe Community College,36,NY,43.101265,-77.608488
+193654,1,213,NA,private,New School,36,NY,40.735275,-73.994636
+193900,2,122,127,private,New York University,36,NY,40.729452,-73.997264
+194310,1,20,NA,private,Pace University,36,NY,40.711014,-74.004719
+194578,1,189,NA,private,Pratt Institute,36,NY,40.691154,-73.962149
+195030,1,18,NA,private,University of Rochester,36,NY,43.126437,-77.631042
+195049,1,339,NA,private,Rockefeller University,36,NY,40.762927,-73.954912
+195243,1,104,NA,private,St. Thomas Aquinas College,36,NY,41.041126,-73.934182
+195304,1,169,NA,private,Sarah Lawrence College,36,NY,40.934147,-73.84381
+195526,1,253,NA,private,Skidmore College,36,NY,43.092696,-73.785108
+195809,2,128,129,private,St. John's University (N.Y.),36,NY,40.721979,-73.795301
+195827,1,176,NA,public,State University of New York system,36,NY,42.647976,-73.749737
+196060,1,133,NA,public,"University at Albany, SUNY",36,NY,42.686917,-73.825014
+196079,1,134,NA,public,Binghamton University,36,NY,42.088049,-75.971143
+196088,1,290,NA,public,University at Buffalo,36,NY,43.001433,-78.790103
+196097,2,130,131,public,State University of New York at Stony Brook,36,NY,40.913138,-73.123595
+196121,1,97,NA,public,"State University of New York, The College at Brockport",36,NY,43.209862,-77.949824
+196130,2,98,146,public,Buffalo State College,36,NY,42.934199,-78.88067
+196200,1,318,NA,public,State University of New York College at Potsdam,36,NY,44.662862,-74.976889
+196219,1,145,NA,public,State University of New York College at Purchase,36,NY,41.047092,-73.700127
+196413,1,321,NA,private,Syracuse University,36,NY,43.040005,-76.136633
+196866,1,218,NA,private,Union College (N.Y.),36,NY,42.817578,-73.928498
+198419,3,123,228,private,Duke University,37,NC,36.00159,-78.94226
+198613,1,30,NA,private,Guilford College,37,NC,36.092563,-79.888848
+199120,1,90,NA,public,University of North Carolina at Chapel Hill,37,NC,35.912165,-79.050969
+200253,1,50,NA,public,Minot State University,38,ND,48.246877,-101.300624
+200800,1,3,NA,public,University of Akron,39,OH,41.077768,-81.510328
+201654,1,107,NA,private,Cedarville University,39,OH,39.750338,-83.812098
+201885,1,257,NA,public,University of Cincinnati,39,OH,39.131159,-84.51428
+202134,1,180,NA,public,Cleveland State University,39,OH,41.502918,-81.673052
+202523,1,68,NA,private,Denison University,39,OH,40.072582,-82.520625
+203368,1,304,NA,private,John Carroll University,39,OH,41.488978,-81.533103
+204501,1,214,NA,private,Oberlin College,39,OH,41.29474,-82.221786
+204796,2,177,178,public,Ohio State University,39,OH,39.998389,-83.009001
+206525,2,155,156,private,Wittenberg University,39,OH,39.937463,-83.814082
+206622,2,157,158,private,Xavier University (Ohio),39,OH,39.149291,-84.477648
+207209,1,44,NA,public,Langston University,40,OK,35.943953,-97.260263
+207388,1,120,NA,public,Oklahoma State University at Stillwater,40,OK,36.123085,-97.069743
+207971,1,276,NA,private,University of Tulsa,40,OK,36.151887,-95.945175
+210669,2,2,167,private,Allegheny College,42,PA,41.648068,-80.146922
+211440,1,26,NA,private,Carnegie Mellon University,42,PA,40.444616,-79.942914
+212197,1,69,NA,private,Elizabethtown College,42,PA,40.150372,-76.594175
+212577,1,73,NA,private,Franklin & Marshall College,42,PA,40.048045,-76.319037
+212601,2,298,328,private,Gannon University,42,PA,42.126111,-80.086258
+213598,1,199,NA,public,Lincoln University (Pa.),42,PA,39.807725,-75.928273
+214777,2,6,212,public,Pennsylvania State University at University Park,42,PA,40.800732,-77.861644
+215442,2,126,186,private,Point Park University,42,PA,40.438526,-80.001462
+216287,1,181,NA,private,Swarthmore College,42,PA,39.904081,-75.356066
+216339,3,99,100,public,Temple University,42,PA,39.980943,-75.158267
+216551,1,143,NA,private,Valley Forge Military College,42,PA,40.053697,-75.382097
+217156,2,15,172,private,Brown University,44,RI,41.827605,-71.404467
+217882,1,330,NA,public,Clemson University,45,SC,34.677329,-82.834463
+221351,1,299,NA,private,Rhodes College,47,TN,35.154424,-89.989187
+221485,1,258,NA,public,Southwest Tennessee Community College,47,TN,35.137577,-90.036543
+221740,2,38,85,public,University of Tennessee at Chattanooga,47,TN,35.048247,-85.299812
+221759,2,39,91,public,University of Tennessee at Knoxville,47,TN,35.955093,-83.929696
+221999,1,1,NA,private,Vanderbilt University,47,TN,36.14443,-86.804875
+223898,1,179,NA,public,Cisco College,48,TX,32.401694,-98.985681
+225511,1,216,NA,public,University of Houston,48,TX,29.719988,-95.344851
+227368,1,63,NA,public,University of Texas-Pan American,48,TX,26.306629,-98.172112
+227429,1,274,NA,private,Paul Quinn College,48,TX,32.677195,-96.755864
+228246,3,111,112,private,Southern Methodist University,48,TX,32.845254,-96.784855
+228343,1,261,NA,private,Southwestern University (Tex.),48,TX,30.635194,-97.664637
+228644,1,263,NA,public,University of Texas Health Science Center at San Antonio,48,TX,29.504716,-98.57606
+228723,1,135,NA,public,Texas A&M University at College Station,48,TX,30.613226,-96.340322
+229267,1,190,NA,private,Trinity University,48,TX,29.46286,-98.482577
+230038,1,332,NA,private,Brigham Young University,49,UT,40.250851,-111.649281
+230764,1,316,NA,public,University of Utah,49,UT,40.762484,-111.846044
+230807,1,153,NA,private,Westminster College (Utah),49,UT,40.731495,-111.855553
+230940,1,40,NA,private,Marlboro College,50,VT,42.839603,-72.736552
+231624,1,62,NA,public,College of William & Mary,51,VA,37.271997,-76.709417
+232423,1,49,NA,public,James Madison University,51,VA,38.435332,-78.871663
+233374,1,16,NA,private,University of Richmond,51,VA,37.577625,-77.538702
+234030,3,95,243,public,Virginia Commonwealth University,51,VA,37.547631,-77.453597
+234076,2,84,329,public,University of Virginia,51,VA,38.037796,-78.505153
+234085,2,147,250,public,Virginia Military Institute,51,VA,37.790644,-79.435737
+234207,1,149,NA,private,Washington and Lee University,51,VA,37.787832,-79.445724
+235103,1,295,NA,public,Edmonds Community College,53,WA,47.816742,-122.327483
+236939,3,150,246,public,Washington State University,53,WA,46.730448,-117.158168
+236948,1,140,NA,public,University of Washington,53,WA,47.656213,-122.313115
+237011,2,152,245,public,Western Washington University,53,WA,48.737236,-122.484873
+237057,1,154,NA,private,Whitman College,53,WA,46.07135,-118.33016
+237066,1,286,NA,private,Whitworth University,53,WA,47.753699,-117.418078
+237181,1,12,NA,private,Bethany College (W.Va.),54,WV,40.20567,-80.560896
+237358,1,67,NA,private,Davis & Elkins College,54,WV,38.928693,-79.846391
+237385,1,118,NA,public,Glenville State College,54,WV,38.935341,-80.833597
+237473,1,326,NA,public,James Rumsey Technical Institute,54,WV,39.5328,-77.978583
+237880,1,151,NA,public,West Virginia School of Osteopathic Medicine,54,WV,37.803879,-80.438644
+239169,1,163,NA,private,Medical College of Wisconsin,55,WI,43.044108,-88.022698
+240189,2,142,222,public,University of Wisconsin at Whitewater,55,WI,42.835563,-88.742368
+240444,4,141,229,public,University of Wisconsin at Madison,55,WI,43.073858,-89.405356
+240620,1,268,NA,public,Laramie County Community College,56,WY,41.103874,-104.780973
+243160,1,219,NA,public,University of Puerto Rico-Central Administration,72,PR,18.380864,-66.070015
+243744,5,7,114,private,Stanford University,6,CA,37.426967,-122.168826
+243780,1,334,NA,public,Purdue University at West Lafayette,18,IN,40.428206,-86.914435
+436261,1,113,NA,private,Southwest Acupuncture College (Colo.),8,CO,40.069443,-105.199471
